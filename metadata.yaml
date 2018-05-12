@@ -1,0 +1,38 @@
+_repo: Dokter-Helmond-en-zijn-vrouw_25138
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Brink, Jan ten
+    alias: Ten Brink, Jan
+    birthdate: 1834
+    deathdate: 1901
+    gutenberg_agent_id: '31094'
+    url: http://www.gutenberg.org/2009/agents/31094
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cremer, Jacobus Jan
+    aliases:
+    - Cremer, J.J.
+    - Cremer, J. J. (Jacobus Jan)
+    birthdate: 1827
+    deathdate: 1880
+    gutenberg_agent_id: '31093'
+    url: http://www.gutenberg.org/2009/agents/31093
+    wikipedia: http://nl.wikipedia.org/wiki/Jacob_Jan_Cremer
+description: ''
+gutenberg_issued: '2008-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25138'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Dutch fiction'
+title: Dokter Helmond en zijn vrouw
+url: http://www.gutenberg.org/ebooks/25138
